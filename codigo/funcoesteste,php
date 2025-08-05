@@ -1,0 +1,5 @@
+<?php
+ Para testar a função soma($a, $b), eu criaria um teste unitário com diferentes valores:
+ Exemplo: soma(2, 3) deve retornar 5; soma(-1, 1) deve retornar 0.
+ Eu usaria o PHPUnit com a asserção assertEquals para garantir que os resultados estão corretos.
+?>
